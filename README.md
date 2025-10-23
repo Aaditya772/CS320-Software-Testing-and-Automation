@@ -11,4 +11,4 @@ I interpret user needs and incorporate them into a program by understanding the 
 
 How do I approach designing software?
 
-I apporoach designing software
+I apporoach designing software by first evaluating requirements and needs, creating models and a plan, and executing that plan. Every few intervals, proggress is evaluated to see if there are any drawback or areas that could be improved or altered.
