@@ -7,6 +7,8 @@ I can ensure that my code, program, or software is functional and secure by usin
 
 How do I interpret user needs and incorporate them into a program?
 
-I interpret user needs and incorporate them into a program by 
+I interpret user needs and incorporate them into a program by understanding the requests of the client along with direct feedback through various methods such as prototyping or experimental launches. Feedback forms and contact pages can be used after an intial launch for more detailed feedback.
 
 How do I approach designing software?
+
+I apporoach designing software
